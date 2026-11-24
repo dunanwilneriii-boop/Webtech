@@ -1,0 +1,44 @@
+
+/* Body styling */
+body {
+    background-color: #f4f7fb;
+    font-family: Arial, sans-serif;
+    color: #333333;
+    margin: 30px;
+}
+
+/* Main heading */
+h1 {
+    font-size: 32px;
+    color: #173b63;
+    text-align: center;
+}
+
+/* Section headings */
+h2 {
+    font-size: 22px;
+    color: #236b45;
+}
+
+/* Paragraph styling */
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+/* Unordered list */
+ul {
+    line-height: 1.8;
+}
+
+/* Hyperlink styling */
+a {
+    color: #173b63;
+    text-decoration: none;
+}
+
+/* Hover effect */
+a:hover {
+    color: #236b45;
+    text-decoration: underline;
+}
